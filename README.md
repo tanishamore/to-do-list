@@ -1,7 +1,9 @@
 # 📝 To-Do List App
 
 A sleek and minimal to-do list application built using **HTML**, **CSS**, and **JavaScript**, with a custom **Aurora-inspired animated background**.
-![Screenshot](To-do app.png)
+
+![Screenshot]("To-do app.png")
+
 ---
 
 ## ✨ Features
